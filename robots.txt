@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lyubomyr-rudko.github.io/sitemap.xml
