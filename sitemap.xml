@@ -55,14 +55,26 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://lyubomyr-rudko.github.io/church-in-lviv/03-may-2026-worship-service/</loc>
+    <loc>https://lyubomyr-rudko.github.io/church-in-lviv/03-may-2026-sermon-on-church-part2/</loc>
     <lastmod>2026-05-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://lyubomyr-rudko.github.io/church-in-lviv/10-may-2026-worship-service/</loc>
+    <loc>https://lyubomyr-rudko.github.io/church-in-lviv/03-may-2026-sermon-on-easter/</loc>
     <lastmod>2026-05-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://lyubomyr-rudko.github.io/church-in-lviv/05-may-2026-group-meeting/</loc>
+    <lastmod>2026-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://lyubomyr-rudko.github.io/church-in-lviv/10-may-2026-worship-service/</loc>
+    <lastmod>2026-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
